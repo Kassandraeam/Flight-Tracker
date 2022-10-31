@@ -17,6 +17,7 @@ const FirstPost = () => {
         <li>Go to pages folder</li>
         <li>create a new file. The file name will be what the url will be.</li>
         <li>Go to that url.</li>
+        <li>Test</li>
       </ol>
     </>
   )
